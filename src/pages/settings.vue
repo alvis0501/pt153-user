@@ -2,7 +2,7 @@
   <f7-page name="settings">
     <f7-navbar title="Settings"></f7-navbar>
 
-    <f7-block-title>Form Example</f7-block-title>
+    <f7-block-title>Form Example Upload</f7-block-title>
     <f7-list no-hairlines-md>
       <f7-list-input
         label="Name"
